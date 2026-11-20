@@ -19,7 +19,7 @@ e aproveitar os momentos em família.
 Eram experiências simples, mas muito especiais,
 que guardo com carinho até hoje.`,
 
-foto: "assets/img/infancia.jpg"
+foto: "assets/img/infancia1.jpg"
 },
 
 {
